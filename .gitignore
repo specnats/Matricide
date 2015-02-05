@@ -42,11 +42,11 @@ Network Trash Folder
 Temporary Items
 .apdisk
 
- # All platforms:
- Library
- Temp
- *.csproj
- *.pidb
- *.unityproj
- *.sln
- *.userprefs
+# All platforms:
+Library
+Temp
+*.csproj
+*.pidb
+*.unityproj
+*.sln
+*.userprefs
