@@ -168,8 +168,8 @@ GameObject:
   - 4: {fileID: 794608042}
   - 212: {fileID: 794608041}
   - 95: {fileID: 794608040}
-  - 114: {fileID: 794608043}
   - 50: {fileID: 794608039}
+  - 114: {fileID: 794608043}
   m_Layer: 0
   m_Name: player
   m_TagString: Untagged
@@ -249,6 +249,6 @@ MonoBehaviour:
   m_GameObject: {fileID: 794608038}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 568c281685c191e4e8819eb75f4fd938, type: 3}
+  m_Script: {fileID: 11500000, guid: 07832e4faf8474440b5ea69104fa820d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
